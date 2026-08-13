@@ -36,7 +36,7 @@ My primary focus is **AI and Data**, while I also explore frontend and backend d
 `React` `React Native` `JavaScript` `FastAPI` `REST API`
 
 * Web & App Prototyping
-* REST API Integration
+* FastAPI
 * Integration of AI/Data Features into Applications
 
 ### Collaboration & Tools
