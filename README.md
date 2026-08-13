@@ -86,7 +86,11 @@ My primary focus is **AI and Data**, while I also explore frontend and backend d
 
 ---
 
-## 💻 Hackathons
+## 💻 Hackathons & Competitions
+
+### Kwangwoon University Software Competition
+
+**Participant | 2026**
 
 ### Blaybus Startup MVP Development Hackathon
 
