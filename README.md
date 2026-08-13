@@ -2,7 +2,7 @@
 
 ### AI / Data Developer
 
-I enjoy learning new technologies and turning them into working solutions. Rather than stopping at models or individual features, I'm particularly interested in **integrating AI and data into real-world products and services**.
+I enjoy learning new technologies and turning ideas into working solutions. I'm particularly interested in **integrating AI and data into real-world products and services**, rather than stopping at models or individual features.
 
 My primary focus is **AI and Data**, while I also explore frontend and backend development as needed throughout projects.
 
@@ -22,26 +22,35 @@ My primary focus is **AI and Data**, while I also explore frontend and backend d
 
 ### AI / Data
 
-`Python` `Pandas` `NumPy` `PyTorch`
+`Python` `Pandas` `NumPy`
 
-* Data Preprocessing & Analysis
-* Machine Learning
-* Natural Language Processing
-* Computer Vision
-* LLM Applications
-* Retrieval-Augmented Generation (RAG)
+Machine Learning · Data Analysis · Natural Language Processing · Computer Vision · LLM · RAG
 
 ### Development
 
 `React` `React Native` `JavaScript` `FastAPI` `REST API`
 
-* Web & App Prototyping
-* FastAPI
-* Integration of AI/Data Features into Applications
+Web & App Prototyping · API Integration · AI/Data Feature Integration
 
 ### Collaboration & Tools
 
-`Git` `GitHub` `GitLab` `Figma` `Notion`
+ `GitHub` `GitLab` `Figma` `Notion`
+
+---
+
+## 🚀 Projects
+
+### 📚 AI-Based Textbook Accessibility System
+
+AI-based system that analyzes and structures textbook text, tables, figures, and visual content to improve accessibility for visually impaired students.
+
+### 🧠 Multi-Agent LLM System
+
+Multi-agent LLM system integrating RAG, routing, and response revision for domain-specific conversational AI.
+
+### 🤖 Temi Robot Guide Service
+
+Interactive event guide service combining a mobile web application with a Temi service robot for navigation and visitor experiences.
 
 ---
 
@@ -57,14 +66,14 @@ My primary focus is **AI and Data**, while I also explore frontend and backend d
 
 ### KT LAN Sharing Campus
 
-**AI / Programming Mentor | [Period]**
+**AI / Programming Mentor | 2026**
 
 * Teaching AI and programming fundamentals to students
 * Mentoring project-based learning from block coding to introductory AI concepts
 
 ### AI Tiki-Taka
 
-**Programming Mentor | [Period]**
+**Programming Mentor | 2026**
 
 * Programming mentorship for students from non-technical backgrounds
 
@@ -72,6 +81,8 @@ My primary focus is **AI and Data**, while I also explore frontend and backend d
 
 **Member | Feb 2025 – Present**
 **Executive Member | Jun 2026 – Present**
+
+* Participating in AI/ML studies, projects, and hackathons
 
 ---
 
@@ -81,8 +92,7 @@ My primary focus is **AI and Data**, while I also explore frontend and backend d
 
 **Excellence Award | Jul 2026**
 
-* Participated in an assistive technology project
-* Awarded for the final project
+AI-based textbook accessibility system for visually impaired students.
 
 ---
 
@@ -92,9 +102,13 @@ My primary focus is **AI and Data**, while I also explore frontend and backend d
 
 **Participant | 2026**
 
+Personalized platform that recommends university announcements, scholarships, and extracurricular opportunities based on student profiles and interests.
+
 ### Blaybus Startup MVP Development Hackathon
 
 **Participant | Aug 2026 – Present**
+
+MVP development hackathon focused on building and validating real-world startup solutions.
 
 ### CHIC Hackathon
 
