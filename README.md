@@ -123,14 +123,14 @@ Interactive event guide service combining a mobile web application with a Temi s
 
 ### JunctionX Korea 2026
 
-**Track 3 Benchmark Leaderboard — 6th Place | Aug 2026**
+**Track 3 Benchmark Leaderboard — 5th Place | Aug 2026**
 
 * Designed and optimized a multi-agent inference pipeline under fixed-LLM, tool-use, and token-efficiency constraints.
 * Improved agent architecture and inference flow through Planner–Solver orchestration and prompt-level optimization.
 
 ### Blaybus Startup MVP Development Hackathon
 
-**Finalist | Aug 2026**
+**Finalist — 4th Place | Aug 2026**
 
 * Developed a document-processing component for an enterprise workflow automation MVP, extending raw document input through a vision-based extraction bridge.
 * Worked on transforming unstructured document inputs into structured data that could be integrated into the downstream workflow.
